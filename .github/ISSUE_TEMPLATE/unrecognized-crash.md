@@ -1,8 +1,7 @@
 ---
 name: Unrecognized Crash Report
 about: Submit a crash report that wasn't detected by the analyzer
-title: "[Unrecognized Crash] "
-labels: ["crash report", "unmatched"]
+title: "Unrecognized Crash"
 ---
 
 ## Describe the Problem
